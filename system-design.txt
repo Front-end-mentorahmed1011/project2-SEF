@@ -1,0 +1,78 @@
+
+# =>  Color Palette:
+
+1. Main Color Palette:
+
+Primary Color: #2E8B57 (Sea Green)
+Usage: Main buttons, active navigation items, highlights.
+Secondary Color: #FFA500 (Orange)
+Usage: Call-to-action buttons, special offers, or discounts.
+Accent Color: #FF4500 (Orange Red)
+Usage: Hover effects on buttons, or active states for interactive elements.
+
+2. Typography Colors:
+
+Heading Text Color: #333333 (Dark Gray)
+Usage: Main headings (H1, H2, etc.).
+Body Text Color: #555555 (Medium Gray)
+Usage: Paragraphs, descriptions, general content text.
+Link Color: #2E8B57 (Sea Green)
+Usage: Normal state of links.
+Link Hover Color: #FF4500 (Orange Red)
+Usage: Hover state of links.
+
+3. Background Colors:
+
+Main Background: #F8F8F8 (Light Gray)
+Usage: Overall page background.
+Card Background: #FFFFFF (White)
+Usage: Product cards, blocks, lists.
+Footer/Section Background: #2E8B57 (Sea Green)
+Usage: Footer or sections that need differentiation.
+
+4. Product Card Palette:
+
+Card Border Color: #DDDDDD (Light Gray)
+Usage: To outline product cards.
+Card Hover Border: #FFA500 (Orange)
+Usage: When a user hovers over a product card.
+Price Text Color: #FF4500 (Orange Red)
+Usage: Price details.
+Rating Star Color: #FFD700 (Gold)
+Usage: Star ratings on product cards.
+
+5. Button Palette:
+
+Primary Button:
+Background: #2E8B57 (Sea Green)
+Text: #FFFFFF (White)
+Primary Button Hover:
+Background: #FFA500 (Orange)
+Text: #FFFFFF (White)
+Secondary Button:
+Background: #FFFFFF (White)
+Text: #2E8B57 (Sea Green)
+Border: 1px solid #2E8B57 (Sea Green)
+Secondary Button Hover:
+Background: #2E8B57 (Sea Green)
+Text: #FFFFFF (White)
+
+6. Lists and Categories:
+
+List Item Background: #F0F0F0 (Very Light Gray)
+Usage: For product lists or side navigation.
+List Item Hover Background: #FFD700 (Gold)
+Usage: Hover state for product categories.
+
+7. Typography:
+
+Heading Font: "Roboto", sans-serif;
+Body Font: "Open Sans", sans-serif;
+Weight Range: 400 (normal), 700 (bold)
+Fallback Fonts: Arial, Helvetica, sans-serif.
+
+# => Typography:
+
+Header/Title:  font-family: 'Montserrat', sans-serif;
+Body Text: font-family: 'Open Sans', sans-serif;
+Accent Fonts: font-family: 'Bebas Neue', sans-serif;
